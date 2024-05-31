@@ -1,0 +1,5 @@
+﻿Build started at 0:43...
+1>------ Build started: Project: dz_itstep_009, Configuration: Debug Any CPU ------
+1>  dz_itstep_009 -> C:\Users\Admin\source\repos\dz_itstep_009\dz_itstep_009\bin\Debug\dz_itstep_009.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 0:43 and took 00,197 seconds ==========
